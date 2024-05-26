@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.22"
+  },
+  "name": "ct-mshsheikh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Salman Hussain",
+  "license": "ISC",
+  "description": "It's a simple CLI based Countdown Timer created with TypeScript, NodeJS & Inquirer by Muhammad Salman Hussain."
+}
